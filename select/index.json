@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アセロラ",
+  "base_artist": "TOKOTOKO(西沢さんP)",
+  "createdAt": "2026-02-07T06:53:32.812028Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アセロラ",
+      "artist": "TOKOTOKO(西沢さんP)",
+      "has_synced": false,
+      "path": "select/pl_01_アセロラ_TOKOTOKO(西沢さんP).txt"
+    }
+  ]
+}
